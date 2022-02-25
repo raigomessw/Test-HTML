@@ -1,0 +1,23 @@
+p {
+    color: hsl(110, 100%, 50%);
+}
+
+#article-title {
+    font-family: cursive;
+}
+
+h1 {
+    color: rgb(76, 0, 255);
+}
+
+ol.description {
+    color: rgb(50, 66, 205)
+}
+
+.title {
+    color: rgb(214, 0, 0);
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
